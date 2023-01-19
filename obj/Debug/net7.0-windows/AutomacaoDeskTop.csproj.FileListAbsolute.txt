@@ -1,0 +1,17 @@
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.csproj.AssemblyReference.cache
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.Form1.resources
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.csproj.GenerateResource.cache
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.AssemblyInfoInputs.cache
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.AssemblyInfo.cs
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\bin\Debug\net7.0-windows\AutomacaoDeskTop.exe
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\bin\Debug\net7.0-windows\AutomacaoDeskTop.deps.json
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\bin\Debug\net7.0-windows\AutomacaoDeskTop.runtimeconfig.json
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\bin\Debug\net7.0-windows\AutomacaoDeskTop.dll
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\bin\Debug\net7.0-windows\AutomacaoDeskTop.pdb
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.dll
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\refint\AutomacaoDeskTop.dll
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.pdb
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\AutomacaoDeskTop.genruntimeconfig.cache
+C:\Users\Miriam\source\repos\AutomacaoDeskTop\AutomacaoDeskTop\obj\Debug\net7.0-windows\ref\AutomacaoDeskTop.dll
